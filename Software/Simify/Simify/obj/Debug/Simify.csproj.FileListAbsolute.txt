@@ -1,0 +1,10 @@
+C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\bin\Debug\Simify.exe.config
+C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\bin\Debug\Simify.exe
+C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\bin\Debug\Simify.pdb
+C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.csproj.AssemblyReference.cache
+C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.Form1.resources
+C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.Properties.Resources.resources
+C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.csproj.GenerateResource.cache
+C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.csproj.CoreCompileInputs.cache
+C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.exe
+C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.pdb
