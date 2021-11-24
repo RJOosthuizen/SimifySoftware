@@ -102,5 +102,10 @@ namespace Simify
                 port.Write("#TEXTOFF#\n");
             }
         }
+
+        private void cboxPorts_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

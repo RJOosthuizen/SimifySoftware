@@ -37,9 +37,10 @@ namespace Simify
             // 
             // btnOn
             // 
-            this.btnOn.Location = new System.Drawing.Point(481, 195);
+            this.btnOn.Location = new System.Drawing.Point(649, 492);
+            this.btnOn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnOn.Name = "btnOn";
-            this.btnOn.Size = new System.Drawing.Size(75, 23);
+            this.btnOn.Size = new System.Drawing.Size(84, 29);
             this.btnOn.TabIndex = 0;
             this.btnOn.Text = "On";
             this.btnOn.UseVisualStyleBackColor = true;
@@ -47,9 +48,10 @@ namespace Simify
             // 
             // btnConnect
             // 
-            this.btnConnect.Location = new System.Drawing.Point(40, 30);
+            this.btnConnect.Location = new System.Drawing.Point(649, 415);
+            this.btnConnect.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnConnect.Name = "btnConnect";
-            this.btnConnect.Size = new System.Drawing.Size(75, 23);
+            this.btnConnect.Size = new System.Drawing.Size(84, 29);
             this.btnConnect.TabIndex = 1;
             this.btnConnect.Text = "Connect";
             this.btnConnect.UseVisualStyleBackColor = true;
@@ -58,16 +60,19 @@ namespace Simify
             // cboxPorts
             // 
             this.cboxPorts.FormattingEnabled = true;
-            this.cboxPorts.Location = new System.Drawing.Point(142, 30);
+            this.cboxPorts.Location = new System.Drawing.Point(739, 415);
+            this.cboxPorts.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.cboxPorts.Name = "cboxPorts";
-            this.cboxPorts.Size = new System.Drawing.Size(121, 24);
+            this.cboxPorts.Size = new System.Drawing.Size(136, 28);
             this.cboxPorts.TabIndex = 2;
+            this.cboxPorts.SelectedIndexChanged += new System.EventHandler(this.cboxPorts_SelectedIndexChanged);
             // 
             // btnOff
             // 
-            this.btnOff.Location = new System.Drawing.Point(588, 193);
+            this.btnOff.Location = new System.Drawing.Point(770, 490);
+            this.btnOff.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnOff.Name = "btnOff";
-            this.btnOff.Size = new System.Drawing.Size(93, 25);
+            this.btnOff.Size = new System.Drawing.Size(105, 31);
             this.btnOff.TabIndex = 3;
             this.btnOff.Text = "Off";
             this.btnOff.UseVisualStyleBackColor = true;
@@ -75,13 +80,14 @@ namespace Simify
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(900, 562);
             this.Controls.Add(this.btnOff);
             this.Controls.Add(this.cboxPorts);
             this.Controls.Add(this.btnConnect);
             this.Controls.Add(this.btnOn);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

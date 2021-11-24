@@ -8,3 +8,14 @@ C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\obj\Deb
 C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.csproj.CoreCompileInputs.cache
 C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.exe
 C:\Users\RJ\Desktop\SimifySoftware\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.pdb
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\bin\Debug\Simify.exe.config
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\bin\Debug\Simify.exe
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\bin\Debug\Simify.pdb
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.csproj.AssemblyReference.cache
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.Form1.resources
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.Properties.Resources.resources
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.csproj.GenerateResource.cache
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.exe
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Debug\Simify.pdb
