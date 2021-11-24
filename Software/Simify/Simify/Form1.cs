@@ -8,16 +8,25 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO.Ports;
+using Windows.Gaming.Input;
 
+using System.IO;
 
 
 namespace Simify
 {
     public partial class Form1 : Form
     {
+
         bool isConnected = false;
         String[] ports;
         SerialPort port;
+
+
+        RawGameController Controller;
+
+
+
         public Form1()
         {
             InitializeComponent();
@@ -33,6 +42,14 @@ namespace Simify
                     cboxPorts.SelectedItem = ports[0];
                 }
             }
+
+
+            RawGameController.RawGameControllerAdded += RawGameController_RawGameControllerAdded;
+    }
+
+        private void RawGameController_RawGameControllerAdded(object sender, RawGameController e)
+        {
+            throw new NotImplementedException();
         }
 
         private void btnConnect_Click(object sender, EventArgs e)

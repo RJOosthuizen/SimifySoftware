@@ -1,0 +1,6 @@
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Release\Simify.csproj.AssemblyReference.cache
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Release\Simify.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Release\Simify.Form1.resources
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Release\Simify.Properties.Resources.resources
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Release\Simify.csproj.GenerateResource.cache
+C:\Users\Ruan\Documents\GIT\SimifySoftware\Software\Simify\Simify\obj\Release\Simify.csproj.CoreCompileInputs.cache

@@ -8,7 +8,7 @@
 
   <Identity
     Name="129ff9a3-b706-4a0d-af04-66c42d98dc89"
-    Publisher="CN=Ruan"
+    Publisher="CN=Simify"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="129ff9a3-b706-4a0d-af04-66c42d98dc89" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>

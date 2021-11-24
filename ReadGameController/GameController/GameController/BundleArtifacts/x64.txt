@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Ruan\Documents\GIT\SimifySoftware\ReadGameController\GameController\GameController\bin\x64\Release\GameController_1.0.0.0_x64.msix
+SymbolPackage=C:\Users\Ruan\Documents\GIT\SimifySoftware\ReadGameController\GameController\GameController\obj\x64\Release\Symbols\GameController_1.0.0.0_x64.appxsym

@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="GameController.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GameController"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock x:ConnectionId='2' x:Name="txtGameControllerName" HorizontalAlignment="Left" Margin="59,122,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="95" Width="453" FontSize="30"/>
+        <TextBlock x:ConnectionId='3' x:Name="txtThrottleMax" HorizontalAlignment="Left" Height="98" Margin="59,326,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="295" FontSize="30"/>
+        <TextBlock x:ConnectionId='4' x:Name="txtThrottleMin" HorizontalAlignment="Left" Margin="376,335,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="115" Width="326" FontSize="30"/>
+        <TextBlock x:ConnectionId='5' x:Name="txtBrakeMax" HorizontalAlignment="Left" Margin="376,564,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="86" Width="209" FontSize="30"/>
+
+    </Grid>
+</Page>
+
